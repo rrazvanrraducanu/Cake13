@@ -1,0 +1,44 @@
+body {
+	background: aquamarine;
+	color: red;
+	font-family:'Monotype Corsiva',arial;
+	font-size:120%;
+	margin: 0;
+        text-align:center;
+}
+a {
+	color: blue;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	color: green;
+	text-decoration:none;
+}
+a img {
+	border:none;
+}
+h1, h2, h3, h4 {
+	font-weight: normal;
+	margin-bottom:0.5em;
+}
+table {
+	border-right:0;
+	clear: both;
+	color: #333;
+	margin-bottom: 10px;
+	width: 50%;
+        margin-left:25%;
+        margin-right:25%;
+}
+th {
+	border:0;
+	border-bottom:2px solid #555;
+	text-align: center;
+	padding:4px;
+}
+th a {
+	display: block;
+	padding: 2px 4px;
+	text-decoration: none;
+}
